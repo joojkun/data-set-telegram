@@ -6,7 +6,7 @@ Este documento descreve um dataset coletado de grupos políticos no aplicativo d
 
 ## Descrição Geral do Dataset
 
-- **Fonte da Coleta**: API do Telegram.
+- **Ferramenta da Coleta**: API do Telegram.
 - **Período da Coleta**: Inclui mensagens enviadas durante o período das eleições presidenciais de 2022.
 - **Tipos de Mensagens Consideradas**:
   - Textos

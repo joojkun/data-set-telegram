@@ -1,0 +1,114 @@
+[
+    {
+        "_": "Message",
+        "id": 7057,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1186291639
+        },
+        "date": "2023-01-08T21:00:26+00:00",
+        "message": "Um dos maiores crimes da hist\u00f3ria da Rep\u00fablica n\u00e3o pode ficar impune. N\u00e3o h\u00e1 a m\u00ednima brecha para condescend\u00eancia. A consci\u00eancia nacional clama o M\u00c1XIMO RIGOR DA LEI!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": true,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": 9739,
+        "forwards": 5,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 66,
+            "replies_pts": 238142,
+            "comments": true,
+            "recent_repliers": [
+                {
+                    "_": "PeerUser",
+                    "user_id": 1914617682
+                },
+                {
+                    "_": "PeerUser",
+                    "user_id": 5599292081
+                },
+                {
+                    "_": "PeerUser",
+                    "user_id": 875943504
+                }
+            ],
+            "channel_id": 1265181369,
+            "max_id": 166967,
+            "read_max_id": null
+        },
+        "edit_date": "2023-01-08T21:00:48+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 7056,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1186291639
+        },
+        "date": "2023-01-08T20:25:13+00:00",
+        "message": "Absurdos os ataques acontecidos neste domingo, em Bras\u00edlia. Que se identifiquem e sejam punidos os v\u00e2ndalos e, principalmente, seus patrocinadores.\n\nTenho enorme preocupa\u00e7\u00e3o com a profunda divis\u00e3o do Pa\u00eds, mas nada justifica os graves crimes que est\u00e3o cometendo.",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": true,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": 8614,
+        "forwards": 2,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 31,
+            "replies_pts": 238142,
+            "comments": true,
+            "recent_repliers": [
+                {
+                    "_": "PeerUser",
+                    "user_id": 1914617682
+                },
+                {
+                    "_": "PeerUser",
+                    "user_id": 5226324965
+                },
+                {
+                    "_": "PeerUser",
+                    "user_id": 875943504
+                }
+            ],
+            "channel_id": 1265181369,
+            "max_id": 165500,
+            "read_max_id": null
+        },
+        "edit_date": "2023-01-08T20:25:26+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

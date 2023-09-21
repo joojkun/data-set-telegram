@@ -1,0 +1,1237 @@
+[
+    {
+        "_": "Message",
+        "id": 8557,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-04T20:04:02+00:00",
+        "message": "VEREADORES MIRINS DE MARING\u00c1 S\u00c3O EMPOSSADOS EM EVENTO NA C\u00c2MARA\n#C\u00e2mara\nPara o mandato 2022/2023, 19 novos vereadores mirins foram diplomados na sess\u00e3o ordin\u00e1ria realizada nesta quinta-feira (03), na C\u00e2mara Municipal de Maring\u00e1. Leia mais\nLeia mais...",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPageEmpty",
+                "id": 7621025795620747648
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 63,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4869"
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 64,
+                "length": 7
+            },
+            {
+                "_": "MessageEntityPhone",
+                "offset": 87,
+                "length": 9
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 239,
+                "length": 12,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4869"
+            }
+        ],
+        "views": 21,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 15778,
+            "comments": true,
+            "recent_repliers": [],
+            "channel_id": 1327953877,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-04T20:04:05+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8556,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-04T20:04:02+00:00",
+        "message": "Nota de Esclarecimento\n#C\u00e2mara\nLamento profundamente os fatos ocorridos durante a Sess\u00e3o Ordin\u00e1ria da \u00faltima quinta-feira, dia 03 de novembro. Leia mais\nLeia mais...",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPageEmpty",
+                "id": 7621025794642309737
+            }
+        },
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude00",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                49
+                            ],
+                            "requires_password": false
+                        },
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude15",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                50
+                            ],
+                            "requires_password": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 22,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4870"
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 23,
+                "length": 7
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 153,
+                "length": 12,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4870"
+            }
+        ],
+        "views": 20,
+        "forwards": 0,
+        "replies": null,
+        "edit_date": "2022-11-04T20:04:05+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8555,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-03T15:55:53+00:00",
+        "message": "C\u00e2mara amplia lista de produtos fum\u00edgenos proibidos em locais p\u00fablicos e particulares\n#C\u00e2mara\nNa sess\u00e3o ordin\u00e1ria desta quinta-feira (03), o plen\u00e1rio da C\u00e2mara de Maring\u00e1 analisou quatro projetos e 12 requerimentos de informa\u00e7\u00e3o ao Executivo. Leia mais\nLeia mais...",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPageEmpty",
+                "id": 7621025795597116218
+            }
+        },
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude00",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                49
+                            ],
+                            "requires_password": false
+                        },
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude15",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                50
+                            ],
+                            "requires_password": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 85,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4868"
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 86,
+                "length": 7
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 253,
+                "length": 12,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4868"
+            }
+        ],
+        "views": 19,
+        "forwards": 0,
+        "replies": null,
+        "edit_date": "2022-11-03T15:55:56+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8554,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-03T11:27:29+00:00",
+        "message": "Sess\u00e3o Ordin\u00e1ria 03/11/2022\nTV C\u00e2mara Maring\u00e1 (YouTube)\n\n----------------\nYou can save this video with @download_it_bot",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaPhoto",
+            "photo": {
+                "_": "Photo",
+                "id": 5988989435510894325,
+                "access_hash": -7950052137926092473,
+                "file_reference": [
+                    2,
+                    77,
+                    147,
+                    214,
+                    165,
+                    0,
+                    0,
+                    33,
+                    106,
+                    100,
+                    26,
+                    240,
+                    38,
+                    147,
+                    253,
+                    74,
+                    13,
+                    107,
+                    104,
+                    136,
+                    59,
+                    191,
+                    101,
+                    130,
+                    9,
+                    36,
+                    193,
+                    175,
+                    211
+                ],
+                "date": "2022-11-03T11:27:24+00:00",
+                "sizes": [
+                    {
+                        "_": "PhotoStrippedSize",
+                        "type": "i",
+                        "bytes": [
+                            1,
+                            23,
+                            40,
+                            108,
+                            81,
+                            49,
+                            143,
+                            204,
+                            43,
+                            199,
+                            108,
+                            247,
+                            171,
+                            9,
+                            19,
+                            140,
+                            50,
+                            168,
+                            119,
+                            97,
+                            247,
+                            143,
+                            221,
+                            2,
+                            162,
+                            75,
+                            119,
+                            146,
+                            21,
+                            34,
+                            64,
+                            115,
+                            156,
+                            47,
+                            52,
+                            236,
+                            73,
+                            1,
+                            218,
+                            179,
+                            12,
+                            231,
+                            133,
+                            245,
+                            231,
+                            21,
+                            38,
+                            237,
+                            220,
+                            187,
+                            12,
+                            102,
+                            48,
+                            75,
+                            49,
+                            102,
+                            110,
+                            180,
+                            217,
+                            174,
+                            210,
+                            32,
+                            64,
+                            33,
+                            155,
+                            210,
+                            171,
+                            186,
+                            79,
+                            41,
+                            219,
+                            230,
+                            12,
+                            103,
+                            28,
+                            113,
+                            219,
+                            53,
+                            2,
+                            219,
+                            187,
+                            99,
+                            145,
+                            200,
+                            207,
+                            127,
+                            243,
+                            220,
+                            83,
+                            185,
+                            42,
+                            41,
+                            234,
+                            216,
+                            201,
+                            100,
+                            105,
+                            88,
+                            179,
+                            28,
+                            147,
+                            69,
+                            44,
+                            144,
+                            180,
+                            104,
+                            88,
+                            227,
+                            25,
+                            199,
+                            31,
+                            231,
+                            216,
+                            209,
+                            82,
+                            106,
+                            159,
+                            97,
+                            99,
+                            148,
+                            198,
+                            0,
+                            46,
+                            87,
+                            105,
+                            227,
+                            3,
+                            167,
+                            173,
+                            56,
+                            76,
+                            20,
+                            0,
+                            25,
+                            240,
+                            63,
+                            217,
+                            20,
+                            81,
+                            76,
+                            139,
+                            13,
+                            89,
+                            219,
+                            28,
+                            187,
+                            100,
+                            80,
+                            211,
+                            18,
+                            8,
+                            222,
+                            196,
+                            99,
+                            191,
+                            106,
+                            40,
+                            160,
+                            44,
+                            15,
+                            35,
+                            73,
+                            149,
+                            86,
+                            102,
+                            221,
+                            212,
+                            26,
+                            40,
+                            162,
+                            128,
+                            63
+                        ]
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "m",
+                        "w": 320,
+                        "h": 180,
+                        "size": 15841
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "x",
+                        "w": 800,
+                        "h": 450,
+                        "size": 45193
+                    },
+                    {
+                        "_": "PhotoSizeProgressive",
+                        "type": "y",
+                        "w": 1280,
+                        "h": 720,
+                        "sizes": [
+                            9093,
+                            22385,
+                            37612,
+                            48342,
+                            76258
+                        ]
+                    }
+                ],
+                "dc_id": 4,
+                "has_stickers": false,
+                "video_sizes": []
+            },
+            "ttl_seconds": null
+        },
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude00",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                49
+                            ],
+                            "requires_password": false
+                        },
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude15",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                50
+                            ],
+                            "requires_password": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 27,
+                "url": "https://www.youtube.com/watch?v=sOyGM69r3lY"
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 28,
+                "length": 27
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 103,
+                "length": 16,
+                "url": "https://t.me/download_it_bot?start=aximobot_caption"
+            }
+        ],
+        "views": 17,
+        "forwards": 0,
+        "replies": null,
+        "edit_date": "2022-11-03T11:27:32+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8553,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-01T19:47:05+00:00",
+        "message": "Sess\u00e3o Ordin\u00e1ria 01/11/2022\nTV C\u00e2mara Maring\u00e1 (YouTube)\n\n----------------\nYou can save this video with @download_it_bot",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaPhoto",
+            "photo": {
+                "_": "Photo",
+                "id": 5984635515493789569,
+                "access_hash": -2845990099870526589,
+                "file_reference": [
+                    2,
+                    77,
+                    147,
+                    214,
+                    165,
+                    0,
+                    0,
+                    33,
+                    105,
+                    100,
+                    26,
+                    240,
+                    38,
+                    28,
+                    26,
+                    90,
+                    137,
+                    160,
+                    17,
+                    60,
+                    168,
+                    13,
+                    148,
+                    101,
+                    181,
+                    179,
+                    187,
+                    251,
+                    141
+                ],
+                "date": "2022-11-01T19:46:44+00:00",
+                "sizes": [
+                    {
+                        "_": "PhotoStrippedSize",
+                        "type": "i",
+                        "bytes": [
+                            1,
+                            23,
+                            40,
+                            141,
+                            103,
+                            95,
+                            45,
+                            67,
+                            72,
+                            72,
+                            3,
+                            166,
+                            234,
+                            134,
+                            43,
+                            130,
+                            38,
+                            1,
+                            94,
+                            64,
+                            188,
+                            231,
+                            47,
+                            214,
+                            144,
+                            92,
+                            198,
+                            34,
+                            43,
+                            229,
+                            130,
+                            113,
+                            222,
+                            162,
+                            73,
+                            35,
+                            86,
+                            201,
+                            136,
+                            117,
+                            207,
+                            4,
+                            241,
+                            74,
+                            192,
+                            79,
+                            107,
+                            46,
+                            201,
+                            9,
+                            222,
+                            87,
+                            143,
+                            92,
+                            83,
+                            167,
+                            159,
+                            106,
+                            252,
+                            146,
+                            124,
+                            216,
+                            199,
+                            28,
+                            254,
+                            181,
+                            84,
+                            74,
+                            84,
+                            229,
+                            48,
+                            63,
+                            10,
+                            99,
+                            185,
+                            114,
+                            11,
+                            118,
+                            227,
+                            165,
+                            22,
+                            27,
+                            39,
+                            157,
+                            201,
+                            8,
+                            30,
+                            102,
+                            147,
+                            131,
+                            206,
+                            115,
+                            138,
+                            42,
+                            19,
+                            35,
+                            16,
+                            1,
+                            237,
+                            199,
+                            74,
+                            40,
+                            176,
+                            13,
+                            207,
+                            108,
+                            81,
+                            69,
+                            20,
+                            192,
+                            1,
+                            195,
+                            3,
+                            128,
+                            125,
+                            169,
+                            119,
+                            124,
+                            251,
+                            182,
+                            175,
+                            211,
+                            181,
+                            20,
+                            82,
+                            1,
+                            237,
+                            48,
+                            113,
+                            129,
+                            20,
+                            99,
+                            221,
+                            65,
+                            162,
+                            138,
+                            40,
+                            17
+                        ]
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "m",
+                        "w": 320,
+                        "h": 180,
+                        "size": 17390
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "x",
+                        "w": 800,
+                        "h": 450,
+                        "size": 61889
+                    },
+                    {
+                        "_": "PhotoSizeProgressive",
+                        "type": "y",
+                        "w": 1280,
+                        "h": 720,
+                        "sizes": [
+                            12481,
+                            31422,
+                            48786,
+                            68324,
+                            106038
+                        ]
+                    }
+                ],
+                "dc_id": 4,
+                "has_stickers": false,
+                "video_sizes": []
+            },
+            "ttl_seconds": null
+        },
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude00",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                49
+                            ],
+                            "requires_password": false
+                        },
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude15",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                50
+                            ],
+                            "requires_password": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 27,
+                "url": "https://www.youtube.com/watch?v=vxX9k6CRoy4"
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 28,
+                "length": 27
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 103,
+                "length": 16,
+                "url": "https://t.me/download_it_bot?start=aximobot_caption"
+            }
+        ],
+        "views": 16,
+        "forwards": 0,
+        "replies": null,
+        "edit_date": "2022-11-01T19:47:08+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8552,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-01T15:45:42+00:00",
+        "message": "Vereadores recebem presidente da OAB Maring\u00e1\n#C\u00e2mara\nEder Fabrilo Rosa, presidente da OAB Maring\u00e1, falou aos vereadores de Maring\u00e1 sobre as atividades da institui\u00e7\u00e3o. Leia mais\nLeia mais...",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPageEmpty",
+                "id": 7621025795802771512
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 44,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4865"
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 45,
+                "length": 7
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 177,
+                "length": 12,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4865"
+            }
+        ],
+        "views": 14,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 15778,
+            "comments": true,
+            "recent_repliers": [],
+            "channel_id": 1327953877,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-01T15:45:44+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8551,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-01T15:45:42+00:00",
+        "message": "Presidente da Regional Noroeste da Abrasel convida para evento\n#C\u00e2mara\nO presidente da Regional Noroeste da Abrasel, Rafael Cecato, convidou os vereadores de Maring\u00e1 para participarem da 37\u00aa Edi\u00e7\u00e3o do Encontro Nacional da Abrasel Noroeste Paran\u00e1 e do 1\u00ba Festival dos Sabores da Cidade Can\u00e7\u00e3o. Leia mais\nLeia mais...",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPageEmpty",
+                "id": 7621025796011481803
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 62,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4866"
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 63,
+                "length": 7
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 303,
+                "length": 12,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4866"
+            }
+        ],
+        "views": 12,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 15778,
+            "comments": true,
+            "recent_repliers": [],
+            "channel_id": 1327953877,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-01T15:45:44+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 8550,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1301534373
+        },
+        "date": "2022-11-01T15:45:41+00:00",
+        "message": "C\u00e2mara aprova regulamenta\u00e7\u00e3o de constru\u00e7\u00f5es em fundo de vale\n#C\u00e2mara\nNa sess\u00e3o ordin\u00e1ria desta ter\u00e7a-feira (01), o plen\u00e1rio da C\u00e2mara de Maring\u00e1 analisou tr\u00eas projetos e 16 requerimentos de informa\u00e7\u00e3o ao Executivo. Leia mais\nLeia mais...",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPageEmpty",
+                "id": 7621025795962265834
+            }
+        },
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude00",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                49
+                            ],
+                            "requires_password": false
+                        },
+                        {
+                            "_": "KeyboardButtonCallback",
+                            "text": "\ud83d\ude15",
+                            "data": [
+                                104,
+                                97,
+                                110,
+                                100,
+                                108,
+                                101,
+                                95,
+                                114,
+                                101,
+                                97,
+                                99,
+                                116,
+                                105,
+                                111,
+                                110,
+                                95,
+                                50
+                            ],
+                            "requires_password": false
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 0,
+                "length": 60,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4867"
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 61,
+                "length": 7
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 225,
+                "length": 12,
+                "url": "http://www.cmm.pr.gov.br/?inc=noticia&id=4867"
+            }
+        ],
+        "views": 12,
+        "forwards": 0,
+        "replies": null,
+        "edit_date": "2022-11-01T15:45:44+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

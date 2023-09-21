@@ -1,0 +1,54 @@
+[
+    {
+        "_": "MessageService",
+        "id": 255,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1202658850
+        },
+        "date": "2022-10-29T13:20:18+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 1015189442
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1015189442
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 254,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1202658850
+        },
+        "date": "2022-10-29T13:19:50+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                1015189442
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1015189442
+        },
+        "reply_to": null,
+        "ttl_period": null
+    }
+]

@@ -1,0 +1,644 @@
+[
+    {
+        "_": "Message",
+        "id": 11597,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-10T05:00:05+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11596,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-09T17:34:24+00:00",
+        "message": "\ud835\ude3c\ud835\ude4f\ud835\ude4f\ud835\ude40\ud835\ude49\ud835\ude4f\ud835\ude44\ud835\ude4a\ud835\ude49 \ud835\ude40\ud835\ude51\ud835\ude40\ud835\ude4d\ud835\ude54\ud835\ude4a\ud835\ude49\ud835\ude40! \n\ud835\ude59\ud835\ude64\ud835\ude63'\ud835\ude69 \ud835\ude68\ud835\ude5a\ud835\ude63\ud835\ude59 \ud835\ude62\ud835\ude64\ud835\ude63\ud835\ude5a\ud835\ude6e \ud835\ude69\ud835\ude64 \ud835\ude68\ud835\ude58\ud835\ude56\ud835\ude62\ud835\ude62\ud835\ude5a\ud835\ude67\ud835\ude68. \ud835\ude4b\ud835\ude61\ud835\ude5a\ud835\ude56\ud835\ude68\ud835\ude5a \ud835\ude44'\ud835\ude62 \ud835\ude56 \ud835\ude6b\ud835\ude5e\ud835\ude58\ud835\ude69\ud835\ude5e\ud835\ude62 \ud835\ude64\ud835\ude5b \ud835\ude69\ud835\ude5d\ud835\ude5e\ud835\ude68 \ud835\ude68\ud835\ude64 \ud835\ude58\ud835\ude56\ud835\ude61\ud835\ude61\ud835\ude5a\ud835\ude59 \ud835\ude57\ud835\ude5e\ud835\ude63\ud835\ude56\ud835\ude67\ud835\ude6e \ud835\ude5e\ud835\ude63\ud835\ude6b\ud835\ude5a\ud835\ude68\ud835\ude69\ud835\ude62\ud835\ude5a\ud835\ude63\ud835\ude69.\n\ud835\ude50\ud835\ude63\ud835\ude69\ud835\ude5e\ud835\ude61 \ud835\ude44 \ud835\ude62\ud835\ude5a\ud835\ude69 \ud835\ude69\ud835\ude5d\ud835\ude5e\ud835\ude68 \ud835\ude5c\ud835\ude67\ud835\ude5a\ud835\ude56\ud835\ude69 \ud835\ude65\ud835\ude61\ud835\ude56\ud835\ude69\ud835\ude5b\ud835\ude64\ud835\ude67\ud835\ude62 \ud835\ude6c\ud835\ude5d\ud835\ude64 \ud835\ude58\ud835\ude5d\ud835\ude56\ud835\ude63\ud835\ude5c\ud835\ude5a \ud835\ude62\ud835\ude6e \ud835\ude68\ud835\ude69\ud835\ude64\ud835\ude67\ud835\ude6e \ud835\ude5b\ud835\ude67\ud835\ude64\ud835\ude62 \ud835\ude65\ud835\ude64\ud835\ude64\ud835\ude67 \ud835\ude69\ud835\ude64 \ud835\ude67\ud835\ude5e\ud835\ude58\ud835\ude5d\ud835\ude5a\ud835\ude68 \ud835\ude5e\ud835\ude63 \ud835\ude5f\ud835\ude6a\ud835\ude68\ud835\ude69 24 \ud835\ude5d\ud835\ude64\ud835\ude6a\ud835\ude67\ud835\ude68, \ud835\ude44 \ud835\ude6c\ud835\ude56\ud835\ude63\ud835\ude69 \ud835\ude5a\ud835\ude6b\ud835\ude5a\ud835\ude67\ud835\ude6e\ud835\ude64\ud835\ude63\ud835\ude5a \ud835\ude69\ud835\ude64 \ud835\ude5e\ud835\ude63\ud835\ude6b\ud835\ude5a\ud835\ude68\ud835\ude69 \ud835\ude69\ud835\ude5d\ud835\ude5a\ud835\ude67\ud835\ude5a, \ud835\ude44 \ud835\ude6c\ud835\ude5e\ud835\ude61\ud835\ude61 \ud835\ude56\ud835\ude59\ud835\ude6b\ud835\ude5e\ud835\ude58\ud835\ude5a \ud835\ude6e\ud835\ude64\ud835\ude6a \ud835\ude69\ud835\ude64 \ud835\ude5f\ud835\ude64\ud835\ude5e\ud835\ude63 \ud835\ude69\ud835\ude5d\ud835\ude5e\ud835\ude68 \ud835\ude58\ud835\ude5d\ud835\ude56\ud835\ude63\ud835\ude63\ud835\ude5a\ud835\ude61 \ud835\ude64\ud835\ude63 \ud835\ude69\ud835\ude5a\ud835\ude61\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude56\ud835\ude62 \ud835\ude56\ud835\ude63\ud835\ude59 \ud835\ude5e\ud835\ude63\ud835\ude6b\ud835\ude5a\ud835\ude68\ud835\ude69 \ud835\ude62\ud835\ude56\ud835\ude60\ud835\ude5a \ud835\ude62\ud835\ude64\ud835\ude67\ud835\ude5a \ud835\ude65\ud835\ude67\ud835\ude64\ud835\ude5b\ud835\ude5e\ud835\ude69 \ud835\ude69\ud835\ude5d\ud835\ude5a\ud835\ude6e \ud835\ude56\ud835\ude67\ud835\ude5a \ud835\ude6b\ud835\ude5a\ud835\ude67\ud835\ude6e \ud835\ude61\ud835\ude5a\ud835\ude5c\ud835\ude5e\ud835\ude69 \ud835\ude59\ud835\ude62 \ud835\ude6b\ud835\ude5e\ud835\ude5a \ud835\ude58\ud835\ude61\ud835\ude5e\ud835\ude63\ud835\ude60\ud835\ude5e\ud835\ude63\ud835\ude5c \ud835\ude64\ud835\ude63 \ud835\ude69\ud835\ude5d\ud835\ude5a \ud835\ude61\ud835\ude5e\ud835\ude63\ud835\ude60 \ud835\ude57\ud835\ude5a\ud835\ude61\ud835\ude64\ud835\ude6c\nhttp://Telegram.me/joinchat/E5FmrE6b1uExODRk\nhttp://Telegram.me/joinchat/E5FmrE6b1uExODRk",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5749372023
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-10-09T17:33:10+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1878846883
+            },
+            "from_name": null,
+            "channel_post": 2,
+            "post_author": null,
+            "saved_from_peer": null,
+            "saved_from_msg_id": null,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityUrl",
+                "offset": 651,
+                "length": 44
+            },
+            {
+                "_": "MessageEntityUrl",
+                "offset": 696,
+                "length": 44
+            }
+        ],
+        "views": 0,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11594,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-09T05:00:04+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11593,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-08T05:00:04+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11590,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-07T05:00:05+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11589,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-06T12:38:21+00:00",
+        "message": "Bem vindo! Aqui compartilhamos conhecimento a respeito da Geopol\u00edtica e seus efeitos!\n\n\u274c DVULGA\u00c7\u00d5ES, salvo not\u00edcias/fontes de not\u00edcias\n\u274c PORNOGRAFIA DE QUALQUER TIPO\n\u274cFugir muito do tema grupo\n\u2705Piadas s\u00e3o aceit\u00e1veis dependendo do contexto\n\u2705Debates sem frescura, mas n\u00e3o abuse\n\u2705 Compartilhe qualquer not\u00edcia que ache relevante e que venha a somar ao grupo",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-10-06T12:38:37+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 11588,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-06T12:38:21+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5509201006
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5509201006
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11587,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-06T05:00:04+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11586,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-06T01:26:05+00:00",
+        "message": "\u26a0\ufe0fPESQUISA ELEITORAL PRESIDENCIAL PARA SEGUNDO TURNO EM 2022. VOTE\u2b07\ufe0f\n\n@movimentonacionalpatriota",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1999145604
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityBold",
+                "offset": 2,
+                "length": 64
+            },
+            {
+                "_": "MessageEntityMention",
+                "offset": 70,
+                "length": 26
+            }
+        ],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11585,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-05T05:00:05+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11584,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-04T05:00:04+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11583,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-04T00:27:16+00:00",
+        "message": "Bem vindo! Aqui compartilhamos conhecimento a respeito da Geopol\u00edtica e seus efeitos!\n\n\u274c DVULGA\u00c7\u00d5ES, salvo not\u00edcias/fontes de not\u00edcias\n\u274c PORNOGRAFIA DE QUALQUER TIPO\n\u274cFugir muito do tema grupo\n\u2705Piadas s\u00e3o aceit\u00e1veis dependendo do contexto\n\u2705Debates sem frescura, mas n\u00e3o abuse\n\u2705 Compartilhe qualquer not\u00edcia que ache relevante e que venha a somar ao grupo",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-10-04T00:27:28+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 11582,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-04T00:27:16+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                768666839
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 768666839
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11581,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2022-10-03T05:00:04+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 18676,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

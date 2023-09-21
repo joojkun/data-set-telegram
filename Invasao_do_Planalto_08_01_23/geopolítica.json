@@ -1,0 +1,102 @@
+[
+    {
+        "_": "MessageService",
+        "id": 11765,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2023-01-08T23:33:22+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                1761485233
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1761485233
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 11763,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2023-01-08T07:48:54+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5498589092
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5498589092
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 11762,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1435556700
+        },
+        "date": "2023-01-08T06:00:04+00:00",
+        "message": "Pra hoje: f\u00e9! O resto Deus acrescenta\ud83d\ude4c\u2026 Bom dia!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": true,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1530848294
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 19202,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

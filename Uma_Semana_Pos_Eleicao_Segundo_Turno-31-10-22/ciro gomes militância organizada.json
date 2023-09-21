@@ -1,0 +1,163 @@
+[
+    {
+        "_": "Message",
+        "id": 34162,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1580457301
+        },
+        "date": "2022-11-07T19:15:55+00:00",
+        "message": "@ChannelLikeBot",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": true,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1200098635
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-11-07T19:15:53+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "from_name": null,
+            "channel_post": 1211,
+            "post_author": "Channel Like Bot",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "saved_from_msg_id": 1211,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityMention",
+                "offset": 0,
+                "length": 15
+            }
+        ],
+        "views": 516,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 68096,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-08T01:53:43+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 34161,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1580457301
+        },
+        "date": "2022-11-07T19:15:55+00:00",
+        "message": "Bolsonaristas atacam a Pol\u00edcia em protesto https://youtu.be/KA5np18VB0w",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1200098635
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-11-07T19:15:50+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "from_name": null,
+            "channel_post": 1210,
+            "post_author": "IFTTT",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "saved_from_msg_id": 1210,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPage",
+                "id": 5127856301951866051,
+                "url": "https://youtu.be/KA5np18VB0w",
+                "display_url": "youtube.com/watch?v=KA5np18VB0w",
+                "hash": 0,
+                "type": "video",
+                "site_name": "YouTube",
+                "title": "Bolsonaristas atacam a Pol\u00edcia em protesto",
+                "description": "Os bolsonaristas j\u00e1 passaram de qualquer limite toler\u00e1vel! \n\nAs autoridades precisam agir o mais r\u00e1pido poss\u00edvel em cima das lideran\u00e7as para que esta insanidade coletiva tenha fim de uma vez por todas. \n\nChega!\n\n #for\u00e7asarmadas \n #BOLSONARO \n #forabolsonaro",
+                "photo": null,
+                "embed_url": "https://www.youtube.com/embed/KA5np18VB0w",
+                "embed_type": "iframe",
+                "embed_width": 480,
+                "embed_height": 360,
+                "duration": null,
+                "author": null,
+                "document": null,
+                "cached_page": null,
+                "attributes": []
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityUrl",
+                "offset": 43,
+                "length": 28
+            }
+        ],
+        "views": 470,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 68096,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-08T17:40:43+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

@@ -1,0 +1,851 @@
+[
+    {
+        "_": "MessageService",
+        "id": 1894,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-28T04:49:42+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 1761598638
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1761598638
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1893,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-28T04:49:36+00:00",
+        "message": "Irm\u00e3os, v\u00e3o atr\u00e1s da vdd, antes que seja tarde demais, quem vcs acreditam que v\u00e3o ajuda a popula\u00e7\u00e3o brasileira, na vdd vai acabar com tudo que j\u00e1 foi constru\u00eddo, Deus aben\u00e7oe vcs e que papai do c\u00e9u aben\u00e7oe essa na\u00e7\u00e3o",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1761598638
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1892,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-28T04:48:25+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                1761598638
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1761598638
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1891,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-27T18:18:36+00:00",
+        "message": "Observe que quem pede o fechamento do STF ou quer aumentar o numero de aliados la dentro, est\u00e1 querendo rasgar a nossa constitui\u00e7\u00e3o",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 862272162
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1890,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-27T18:18:02+00:00",
+        "message": "Boa tarde. Pr\u00f3ximo domingo, \u00e9 o primeiro passo pra reconquistarmos nossa democracia. Aqui n\u00e3o pode se tornar uma venezuela!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 862272162
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1889,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-27T12:44:08+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 5684091909
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5684091909
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1888,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-26T17:05:13+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 5034157179
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5034157179
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1887,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-26T12:18:32+00:00",
+        "message": "\u00c9 verdade!",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5254832811
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1886,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-26T11:41:14+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5684091909
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5684091909
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1885,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T16:00:41+00:00",
+        "message": "Eleitor do Lula coloca qualquer outro candidato no chinelo",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 862272162
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1884,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T16:00:29+00:00",
+        "message": "Argumentos fort\u00edssimos n\u00e3o faltam",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 862272162
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1883,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T16:00:18+00:00",
+        "message": "O cara pra chamar os eleitores do Lula, tem que ter no m\u00ednimo PHD",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 862272162
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1882,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T02:19:17+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 2114874668
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 2114874668
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1881,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T02:09:28+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5220530847
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5220530847
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1880,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T00:57:34+00:00",
+        "message": "https://bolsonaro.meuvoto.live/",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 2114874668
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPage",
+                "id": 921907352116561038,
+                "url": "https://bolsonaro.meuvoto.live/",
+                "display_url": "bolsonaro.meuvoto.live",
+                "hash": 0,
+                "type": "photo",
+                "site_name": "bolsonaro.meuvoto.live",
+                "title": "Bolsonaro 2\u00ba Turno \u2014 Gerar flyer de apoio ao Bolsonaro com seu nome",
+                "description": "Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das elei\u00e7\u00f5es brasileira",
+                "photo": null,
+                "embed_url": null,
+                "embed_type": null,
+                "embed_width": null,
+                "embed_height": null,
+                "duration": null,
+                "author": null,
+                "document": null,
+                "cached_page": null,
+                "attributes": []
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityUrl",
+                "offset": 0,
+                "length": 31
+            }
+        ],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1879,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-25T00:57:28+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                2114874668
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 2114874668
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1878,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-24T01:52:46+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 1887124072
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1887124072
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1877,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-24T01:50:25+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 5691378404
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5691378404
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1876,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-24T01:49:16+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5691378404
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5691378404
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1873,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-23T03:02:59+00:00",
+        "message": "",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1451375243
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaUnsupported"
+        },
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1872,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-23T03:02:30+00:00",
+        "message": "Tem gado aqui do Lula e do Bolsonaro ?",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1451375243
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 1871,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-23T03:02:17+00:00",
+        "message": "E a\u00ed pessoal",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1451375243
+        },
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": null,
+        "forwards": null,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 6769,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 1861,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-23T02:35:16+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5034157179
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5034157179
+        },
+        "reply_to": null,
+        "ttl_period": null
+    }
+]

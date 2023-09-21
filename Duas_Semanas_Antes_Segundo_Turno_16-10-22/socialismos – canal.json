@@ -1,0 +1,1982 @@
+[
+    {
+        "_": "Message",
+        "id": 2838,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1216336509
+        },
+        "date": "2022-10-20T12:54:50+00:00",
+        "message": "Teste das massas: o qu\u00e3o burgu\u00eas voc\u00ea \u00e9?",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": true,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaPhoto",
+            "photo": {
+                "_": "Photo",
+                "id": 5082472700051565331,
+                "access_hash": -7143848473224157217,
+                "file_reference": [
+                    2,
+                    72,
+                    127,
+                    210,
+                    125,
+                    0,
+                    0,
+                    11,
+                    22,
+                    100,
+                    22,
+                    18,
+                    142,
+                    240,
+                    28,
+                    93,
+                    55,
+                    183,
+                    13,
+                    197,
+                    16,
+                    173,
+                    67,
+                    176,
+                    60,
+                    120,
+                    2,
+                    21,
+                    128
+                ],
+                "date": "2022-10-20T12:54:50+00:00",
+                "sizes": [
+                    {
+                        "_": "PhotoStrippedSize",
+                        "type": "i",
+                        "bytes": [
+                            1,
+                            40,
+                            35,
+                            166,
+                            58,
+                            14,
+                            7,
+                            79,
+                            74,
+                            66,
+                            79,
+                            247,
+                            7,
+                            242,
+                            165,
+                            92,
+                            109,
+                            29,
+                            63,
+                            74,
+                            56,
+                            246,
+                            253,
+                            40,
+                            2,
+                            60,
+                            175,
+                            247,
+                            127,
+                            90,
+                            50,
+                            191,
+                            221,
+                            253,
+                            105,
+                            196,
+                            14,
+                            192,
+                            31,
+                            198,
+                            154,
+                            80,
+                            251,
+                            126,
+                            116,
+                            0,
+                            218,
+                            40,
+                            197,
+                            20,
+                            1,
+                            42,
+                            159,
+                            148,
+                            115,
+                            254,
+                            127,
+                            58,
+                            50,
+                            61,
+                            120,
+                            255,
+                            0,
+                            62,
+                            244,
+                            41,
+                            224,
+                            114,
+                            127,
+                            207,
+                            227,
+                            70,
+                            255,
+                            0,
+                            82,
+                            127,
+                            95,
+                            241,
+                            160,
+                            3,
+                            120,
+                            245,
+                            63,
+                            151,
+                            255,
+                            0,
+                            94,
+                            152,
+                            93,
+                            179,
+                            193,
+                            34,
+                            159,
+                            191,
+                            61,
+                            119,
+                            126,
+                            191,
+                            227,
+                            72,
+                            204,
+                            15,
+                            82,
+                            195,
+                            240,
+                            255,
+                            0,
+                            235,
+                            208,
+                            4,
+                            116,
+                            81,
+                            69,
+                            0,
+                            60,
+                            55,
+                            3,
+                            147,
+                            249,
+                            209,
+                            184,
+                            246,
+                            63,
+                            173,
+                            20,
+                            80,
+                            1,
+                            185,
+                            189,
+                            127,
+                            90,
+                            79,
+                            203,
+                            243,
+                            162,
+                            138,
+                            0,
+                            105,
+                            235,
+                            218,
+                            138,
+                            40,
+                            160,
+                            15
+                        ]
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "m",
+                        "w": 279,
+                        "h": 320,
+                        "size": 32782
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "x",
+                        "w": 698,
+                        "h": 800,
+                        "size": 126175
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "y",
+                        "w": 1080,
+                        "h": 1238,
+                        "size": 181019
+                    }
+                ],
+                "dc_id": 1,
+                "has_stickers": false,
+                "video_sizes": []
+            },
+            "ttl_seconds": null
+        },
+        "reply_markup": null,
+        "entities": [],
+        "views": 613,
+        "forwards": 5,
+        "replies": null,
+        "edit_date": "2022-10-20T13:51:41+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 2837,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1216336509
+        },
+        "date": "2022-10-19T00:30:47+00:00",
+        "message": "Para os camaradas inscritos nesse canal que ainda n\u00e3o sabem, n\u00f3s temos um grupo. Sintam-se a vontade para entrar pelo link!\n\nhttps://t.me/+YoBeFVrgY0pjZWJh",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": true,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPage",
+                "id": 9170793121062902327,
+                "url": "https://t.me/+YoBeFVrgY0pjZWJh",
+                "display_url": "t.me/+YoBeFVrgY0pjZWJh",
+                "hash": 0,
+                "type": "telegram_megagroup",
+                "site_name": "Telegram",
+                "title": "Socialismos - Grupo \u262d",
+                "description": "Grupo brasileiro/lus\u00f3fono dedicado a discuss\u00e3o de conte\u00fado socialista, marxista e principalmente marxista-leninista.\n\nRegras: https://t.me/c/1197487938/74517\n\nNosso canal: @Socialismos",
+                "photo": {
+                    "_": "Photo",
+                    "id": 4918253075005811030,
+                    "access_hash": 1341273803902238305,
+                    "file_reference": [
+                        0,
+                        100,
+                        22,
+                        18,
+                        142,
+                        118,
+                        116,
+                        75,
+                        45,
+                        7,
+                        153,
+                        49,
+                        65,
+                        150,
+                        41,
+                        96,
+                        81,
+                        100,
+                        187,
+                        205,
+                        228
+                    ],
+                    "date": "2021-04-27T12:26:47+00:00",
+                    "sizes": [
+                        {
+                            "_": "PhotoSize",
+                            "type": "a",
+                            "w": 160,
+                            "h": 160,
+                            "size": 10907
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "b",
+                            "w": 320,
+                            "h": 320,
+                            "size": 25903
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "c",
+                            "w": 640,
+                            "h": 640,
+                            "size": 59833
+                        },
+                        {
+                            "_": "PhotoStrippedSize",
+                            "type": "i",
+                            "bytes": [
+                                1,
+                                40,
+                                40,
+                                172,
+                                1,
+                                99,
+                                129,
+                                214,
+                                180,
+                                96,
+                                211,
+                                70,
+                                221,
+                                211,
+                                19,
+                                244,
+                                21,
+                                5,
+                                180,
+                                1,
+                                226,
+                                114,
+                                223,
+                                196,
+                                8,
+                                21,
+                                28,
+                                23,
+                                210,
+                                168,
+                                72,
+                                156,
+                                147,
+                                229,
+                                182,
+                                115,
+                                158,
+                                72,
+                                244,
+                                168,
+                                139,
+                                78,
+                                254,
+                                71,
+                                85,
+                                73,
+                                190,
+                                110,
+                                88,
+                                154,
+                                98,
+                                202,
+                                216,
+                                175,
+                                8,
+                                49,
+                                235,
+                                154,
+                                175,
+                                62,
+                                154,
+                                49,
+                                186,
+                                22,
+                                252,
+                                13,
+                                79,
+                                3,
+                                172,
+                                251,
+                                194,
+                                134,
+                                242,
+                                152,
+                                103,
+                                145,
+                                140,
+                                30,
+                                245,
+                                22,
+                                246,
+                                141,
+                                194,
+                                202,
+                                165,
+                                45,
+                                254,
+                                234,
+                                224,
+                                231,
+                                241,
+                                38,
+                                171,
+                                67,
+                                52,
+                                228,
+                                158,
+                                230,
+                                99,
+                                41,
+                                86,
+                                33,
+                                134,
+                                8,
+                                162,
+                                173,
+                                220,
+                                161,
+                                146,
+                                217,
+                                46,
+                                63,
+                                139,
+                                163,
+                                31,
+                                94,
+                                122,
+                                209,
+                                82,
+                                117,
+                                69,
+                                221,
+                                19,
+                                90,
+                                227,
+                                200,
+                                74,
+                                161,
+                                115,
+                                30,
+                                203,
+                                199,
+                                227,
+                                134,
+                                228,
+                                85,
+                                171,
+                                41,
+                                6,
+                                211,
+                                25,
+                                234,
+                                58,
+                                84,
+                                23,
+                                100,
+                                27,
+                                134,
+                                193,
+                                205,
+                                99,
+                                11,
+                                198,
+                                163,
+                                243,
+                                50,
+                                229,
+                                188,
+                                201,
+                                109,
+                                111,
+                                0,
+                                140,
+                                219,
+                                200,
+                                254,
+                                88,
+                                35,
+                                229,
+                                113,
+                                218,
+                                173,
+                                69,
+                                109,
+                                109,
+                                52,
+                                127,
+                                186,
+                                145,
+                                202,
+                                142,
+                                171,
+                                184,
+                                243,
+                                245,
+                                21,
+                                144,
+                                57,
+                                36,
+                                127,
+                                116,
+                                241,
+                                86,
+                                172,
+                                231,
+                                242,
+                                39,
+                                4,
+                                146,
+                                16,
+                                240,
+                                213,
+                                208,
+                                201,
+                                228,
+                                109,
+                                54,
+                                153,
+                                122,
+                                226,
+                                17,
+                                13,
+                                140,
+                                137,
+                                184,
+                                149,
+                                207,
+                                202,
+                                15,
+                                111,
+                                106,
+                                42,
+                                45,
+                                74,
+                                225,
+                                89,
+                                22,
+                                52,
+                                32,
+                                231,
+                                146,
+                                69,
+                                21,
+                                44,
+                                186,
+                                73,
+                                242,
+                                221,
+                                153,
+                                224,
+                                149,
+                                32,
+                                131,
+                                130,
+                                41,
+                                126,
+                                86,
+                                239,
+                                131,
+                                239,
+                                210,
+                                138,
+                                41,
+                                26,
+                                140,
+                                88,
+                                216,
+                                51,
+                                18,
+                                87,
+                                7,
+                                220,
+                                83,
+                                138,
+                                168,
+                                32,
+                                147,
+                                156,
+                                118,
+                                29,
+                                40,
+                                162,
+                                170,
+                                247,
+                                212,
+                                133,
+                                20,
+                                149,
+                                128,
+                                156,
+                                156,
+                                154,
+                                40,
+                                162,
+                                164,
+                                179
+                            ]
+                        }
+                    ],
+                    "dc_id": 1,
+                    "has_stickers": false,
+                    "video_sizes": []
+                },
+                "embed_url": null,
+                "embed_type": null,
+                "embed_width": null,
+                "embed_height": null,
+                "duration": null,
+                "author": null,
+                "document": null,
+                "cached_page": null,
+                "attributes": []
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityUrl",
+                "offset": 125,
+                "length": 30
+            }
+        ],
+        "views": 528,
+        "forwards": 0,
+        "replies": null,
+        "edit_date": "2022-10-19T22:07:05+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 2836,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1216336509
+        },
+        "date": "2022-10-17T16:50:04+00:00",
+        "message": "O Pacto Comunista \u00e9 uma federa\u00e7\u00e3o socialista de grupos e canais, que visa a propaga\u00e7\u00e3o de conte\u00fado revolucion\u00e1rio marxista, da teoria \u00e0 pr\u00e1tica. Buscamos, tamb\u00e9m, a propaga\u00e7\u00e3o de conte\u00fados relacionados com a emancipa\u00e7\u00e3o dos pa\u00edses socialistas e pa\u00edses do terceiro mundo, portanto, deslegitimando propaganda imperialista.\n\nAtuais Membros desta Federa\u00e7\u00e3o:\n\u2699\ufe0f @CommunistPact (Canal Oficial)\n\ud83d\udcd5 @CommunistLibrary (Biblioteca Oficial)\n\u25b6\ufe0f Veja a lista completa aqui \u25c0\ufe0f\n\nVoc\u00ea tem um canal ou grupo socialista e deseja juntar-se \u00e0 federa\u00e7\u00e3o? Siga estes passos:\n1. Leia a nossa Legisla\u00e7\u00e3o de Admiss\u00e3o\n2. Responda ao nosso Formul\u00e1rio de Admiss\u00e3o\n3. Envie o formul\u00e1rio atrav\u00e9s do @CommunistPactBot\n\nVoc\u00ea tem alguma sugest\u00e3o para esta federa\u00e7\u00e3o? Pode entrar em contato conosco atrav\u00e9s do @CommunistPactBot (seja educado ou voc\u00ea ser\u00e1 banido de entrar em contato com o bot).",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-09-05T12:24:05+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1488220555
+            },
+            "from_name": null,
+            "channel_post": 205,
+            "post_author": null,
+            "saved_from_peer": null,
+            "saved_from_msg_id": null,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPage",
+                "id": 5081221151927108011,
+                "url": "https://telegra.ph/Lista-dos-Atuais-Membros-da-Federa%C3%A7%C3%A3o-07-09",
+                "display_url": "telegra.ph/Lista-dos-Atuais-Membros-da-Federa\u00e7\u00e3o-07-09",
+                "hash": -270796182,
+                "type": "article",
+                "site_name": "Telegraph",
+                "title": "Lista dos Atuais Membros da Federa\u00e7\u00e3o",
+                "description": "O Pacto Comunista \u00e9 uma federa\u00e7\u00e3o socialista de grupos e canais, que visa a propaga\u00e7\u00e3o de conte\u00fado revolucion\u00e1rio marxista, da teoria \u00e0 pr\u00e1tica. Buscamos, tamb\u00e9m, a propaga\u00e7\u00e3o de conte\u00fados relacionados com a emancipa\u00e7\u00e3o dos pa\u00edses socialistas e pa\u00edses do terceiro mundo, portanto, deslegitimando propaganda imperialista. Idioma da lista:Espanhol | Ingl\u00eas | Italiano Filtrar por:Idioma Telegram \u2699\ufe0f @CommunistPact [Canal Oficial] \ud83d\udcd5 @CommunistLibrary [Biblioteca Oficial] \ud83d\udda5 @ProleWiki - https://prolewiki.org [Wiki\u2026",
+                "photo": {
+                    "_": "Photo",
+                    "id": 5781820317893765861,
+                    "access_hash": -5862185083031183671,
+                    "file_reference": [
+                        0,
+                        100,
+                        22,
+                        18,
+                        142,
+                        133,
+                        139,
+                        114,
+                        135,
+                        235,
+                        165,
+                        85,
+                        10,
+                        85,
+                        46,
+                        103,
+                        199,
+                        189,
+                        118,
+                        76,
+                        128
+                    ],
+                    "date": "2020-07-09T16:43:25+00:00",
+                    "sizes": [
+                        {
+                            "_": "PhotoStrippedSize",
+                            "type": "i",
+                            "bytes": [
+                                1,
+                                25,
+                                40,
+                                130,
+                                156,
+                                170,
+                                88,
+                                18,
+                                7,
+                                3,
+                                173,
+                                54,
+                                167,
+                                139,
+                                6,
+                                22,
+                                30,
+                                227,
+                                63,
+                                74,
+                                231,
+                                110,
+                                199,
+                                123,
+                                118,
+                                33,
+                                218,
+                                113,
+                                156,
+                                28,
+                                82,
+                                149,
+                                32,
+                                2,
+                                71,
+                                7,
+                                161,
+                                171,
+                                159,
+                                63,
+                                155,
+                                198,
+                                60,
+                                159,
+                                195,
+                                21,
+                                12,
+                                184,
+                                16,
+                                241,
+                                211,
+                                119,
+                                21,
+                                42,
+                                87,
+                                37,
+                                74,
+                                229,
+                                122,
+                                40,
+                                162,
+                                172,
+                                176,
+                                167,
+                                199,
+                                33,
+                                141,
+                                178,
+                                42,
+                                58,
+                                90,
+                                26,
+                                184,
+                                110,
+                                137,
+                                60,
+                                197,
+                                254,
+                                233,
+                                199,
+                                166,
+                                105,
+                                36,
+                                115,
+                                35,
+                                100,
+                                241,
+                                232,
+                                41,
+                                148,
+                                82,
+                                229,
+                                66,
+                                75,
+                                80,
+                                162,
+                                146,
+                                138,
+                                99,
+                                63
+                            ]
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "m",
+                            "w": 320,
+                            "h": 200,
+                            "size": 10500
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "x",
+                            "w": 800,
+                            "h": 501,
+                            "size": 34169
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "y",
+                            "w": 802,
+                            "h": 502,
+                            "size": 34643
+                        }
+                    ],
+                    "dc_id": 4,
+                    "has_stickers": false,
+                    "video_sizes": []
+                },
+                "embed_url": null,
+                "embed_type": null,
+                "embed_width": null,
+                "embed_height": null,
+                "duration": null,
+                "author": "COMPACT",
+                "document": null,
+                "cached_page": {
+                    "_": "Page",
+                    "url": "https://telegra.ph/Lista-dos-Atuais-Membros-da-Federa%C3%A7%C3%A3o-07-09",
+                    "blocks": [
+                        {
+                            "_": "PageBlockChannel",
+                            "channel": {
+                                "_": "Channel",
+                                "id": 1488220555,
+                                "title": "The Communist Pact",
+                                "photo": {
+                                    "_": "ChatPhoto",
+                                    "photo_id": 5148133966799284375,
+                                    "dc_id": 1,
+                                    "has_video": false,
+                                    "stripped_thumb": [
+                                        1,
+                                        8,
+                                        8,
+                                        110,
+                                        35,
+                                        217,
+                                        158,
+                                        248,
+                                        253,
+                                        104,
+                                        162,
+                                        138,
+                                        231,
+                                        177,
+                                        223,
+                                        99
+                                    ]
+                                },
+                                "date": "2020-03-15T00:59:49+00:00",
+                                "creator": false,
+                                "left": false,
+                                "broadcast": true,
+                                "verified": false,
+                                "megagroup": false,
+                                "restricted": false,
+                                "signatures": false,
+                                "min": true,
+                                "scam": false,
+                                "has_link": false,
+                                "has_geo": false,
+                                "slowmode_enabled": false,
+                                "call_active": false,
+                                "call_not_empty": false,
+                                "fake": false,
+                                "gigagroup": false,
+                                "access_hash": 5583820452262829306,
+                                "username": "CommunistPact",
+                                "restriction_reason": [],
+                                "admin_rights": null,
+                                "banned_rights": null,
+                                "default_banned_rights": null,
+                                "participants_count": null
+                            }
+                        },
+                        {
+                            "_": "PageBlockTitle",
+                            "text": {
+                                "_": "TextPlain",
+                                "text": "Lista dos Atuais Membros da Federa\u00e7\u00e3o"
+                            }
+                        },
+                        {
+                            "_": "PageBlockAuthorDate",
+                            "author": {
+                                "_": "TextUrl",
+                                "text": {
+                                    "_": "TextPlain",
+                                    "text": "COMPACT"
+                                },
+                                "url": "https://t.me/CommunistPact",
+                                "webpage_id": 0
+                            },
+                            "published_date": "2020-07-09T17:00:12+00:00"
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "O "
+                                    },
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "Pacto Comunista"
+                                        }
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " \u00e9 uma federa\u00e7\u00e3o socialista de grupos e canais, que visa a propaga\u00e7\u00e3o de conte\u00fado revolucion\u00e1rio marxista, da teoria \u00e0 pr\u00e1tica. Buscamos, tamb\u00e9m, a propaga\u00e7\u00e3o de conte\u00fados relacionados com a emancipa\u00e7\u00e3o dos pa\u00edses socialistas e pa\u00edses do terceiro mundo, portanto, deslegitimando propaganda imperialista."
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockPhoto",
+                            "photo_id": 5781820317893765861,
+                            "caption": {
+                                "_": "PageCaption",
+                                "text": {
+                                    "_": "TextEmpty"
+                                },
+                                "credit": {
+                                    "_": "TextEmpty"
+                                }
+                            },
+                            "url": null,
+                            "webpage_id": null
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "Idioma da lista:"
+                                        }
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextItalic",
+                                            "text": {
+                                                "_": "TextPlain",
+                                                "text": "Espanhol"
+                                            }
+                                        },
+                                        "url": "https://telegra.ph/Lista-de-los-Miembros-Actuales-de-la-Federaci%C3%B3n-07-11",
+                                        "webpage_id": 5081221150444337308
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " | "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextItalic",
+                                            "text": {
+                                                "_": "TextPlain",
+                                                "text": "Ingl\u00eas"
+                                            }
+                                        },
+                                        "url": "https://telegra.ph/List-of-Current-Members-of-the-Federation-07-03",
+                                        "webpage_id": 5081221152010853459
+                                    },
+                                    {
+                                        "_": "TextItalic",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": " | "
+                                        }
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextItalic",
+                                            "text": {
+                                                "_": "TextPlain",
+                                                "text": "Italiano"
+                                            }
+                                        },
+                                        "url": "https://telegra.ph/Elenco-dei-Membri-Attuali-della-Federazione-12-10",
+                                        "webpage_id": 5081221151069376793
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\n"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "Filtrar por:"
+                                        }
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextItalic",
+                                            "text": {
+                                                "_": "TextPlain",
+                                                "text": "Idioma"
+                                            }
+                                        },
+                                        "url": "https://telegra.ph/Por-idioma-Lista-dos-Atuais-Membros-da-Federa%C3%A7%C3%A3o-11-05",
+                                        "webpage_id": 5081221150669873184
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockDivider"
+                        },
+                        {
+                            "_": "PageBlockAnchor",
+                            "name": "Telegram"
+                        },
+                        {
+                            "_": "PageBlockHeader",
+                            "text": {
+                                "_": "TextPlain",
+                                "text": "Telegram"
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\u2699\ufe0f "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@CommunistPact"
+                                        },
+                                        "url": "https://t.me/CommunistPact",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " "
+                                    },
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "[Canal Oficial]"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udcd5 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@CommunistLibrary"
+                                        },
+                                        "url": "https://t.me/CommunistLibrary",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " "
+                                    },
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "[Biblioteca Oficial]"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udda5 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@ProleWiki"
+                                        },
+                                        "url": "https://t.me/ProleWiki",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " - "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "https://prolewiki.org"
+                                        },
+                                        "url": "https://prolewiki.org/",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " "
+                                    },
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "[Wiki Oficial]"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@AnticapitalistSurrealism"
+                                        },
+                                        "url": "https://t.me/AnticapitalistSurrealism",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Acumulado de memes coletivos P\u00f3s - Anarco - Gay Completamente Automatizado de Luxo Marxista - Leninista - mao\u00edstas)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@canaisesquerda"
+                                        },
+                                        "url": "https://t.me/canaisesquerda",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@cubazuelacuicoposting"
+                                        },
+                                        "url": "https://t.me/cubazuelacuicoposting",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@cummunistturbo"
+                                        },
+                                        "url": "https://t.me/cummunistturbo",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@DifusionPCVyAPR"
+                                        },
+                                        "url": "https://t.me/DifusionPCVyAPR",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Canal de Difus\u00e3o de Not\u00edcias do Partido Comunista da Venezuela (PCV) e da Alternativa Popular Revolucion\u00e1ria (APR))"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@FreeLeft"
+                                        },
+                                        "url": "https://t.me/FreeLeft",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Canal marxista-leninista que busca postar conte\u00fados sob uma perspectiva comunista e anti-imperialista)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@GameBunker"
+                                        },
+                                        "url": "https://t.me/GameBunker",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@NewOutlookMedia"
+                                        },
+                                        "url": "https://t.me/NewOutlookMedia",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@real_GenZedong_general"
+                                        },
+                                        "url": "https://t.me/real_GenZedong_general",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Grupo de discuss\u00e3o geral do GenZedong)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@revistapatriagrande"
+                                        },
+                                        "url": "https://t.me/revistapatriagrande",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Jornalismo contra-hegem\u00f4nico e popular)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@senzatreguarss"
+                                        },
+                                        "url": "https://t.me/senzatreguarss",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Jornal da Juventude Comunista (FGC) \"A verdade \u00e9 sempre revolucion\u00e1ria.\" ~ A. Gramsci)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@sinocene"
+                                        },
+                                        "url": "https://t.me/sinocene",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@Socialismos"
+                                        },
+                                        "url": "https://t.me/Socialismos",
+                                        "webpage_id": 0
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " (Canal brasileiro/lus\u00f3fono dedicado a difus\u00e3o de conte\u00fado bolivariano, socialista e marxista-leninista)"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "Socialist and Workers movement of Kenya"
+                                        },
+                                        "url": "https://t.me/+Udxz8aW5rCs1OGU0",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@softwarelivrepopular"
+                                        },
+                                        "url": "https://t.me/softwarelivrepopular",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@ujcbahia"
+                                        },
+                                        "url": "https://t.me/ujcbahia",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextPlain",
+                                        "text": "\ud83d\udea9 "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "@WorldRevolutionary"
+                                        },
+                                        "url": "https://t.me/WorldRevolutionary",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "_": "PageBlockDivider"
+                        },
+                        {
+                            "_": "PageBlockParagraph",
+                            "text": {
+                                "_": "TextConcat",
+                                "texts": [
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "Voc\u00ea tem um canal ou grupo socialista e deseja juntar-se \u00e0 federa\u00e7\u00e3o? Leia a nossa "
+                                        }
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextItalic",
+                                            "text": {
+                                                "_": "TextPlain",
+                                                "text": "Legisla\u00e7\u00e3o de Admiss\u00e3o"
+                                            }
+                                        },
+                                        "url": "https://telegra.ph/The-Communist-Pact-Admission-Legislation-03-15",
+                                        "webpage_id": 5081221150931401732
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " "
+                                    },
+                                    {
+                                        "_": "TextBold",
+                                        "text": {
+                                            "_": "TextPlain",
+                                            "text": "e entre em contato conosco atrav\u00e9s do"
+                                        }
+                                    },
+                                    {
+                                        "_": "TextPlain",
+                                        "text": " "
+                                    },
+                                    {
+                                        "_": "TextUrl",
+                                        "text": {
+                                            "_": "TextItalic",
+                                            "text": {
+                                                "_": "TextPlain",
+                                                "text": "@CommunistPactBot"
+                                            }
+                                        },
+                                        "url": "https://t.me/CommunistPactBot",
+                                        "webpage_id": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "photos": [],
+                    "documents": [],
+                    "part": false,
+                    "rtl": false,
+                    "v2": false,
+                    "views": null
+                },
+                "attributes": []
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityBold",
+                "offset": 2,
+                "length": 15
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 322,
+                "length": 32
+            },
+            {
+                "_": "MessageEntityMention",
+                "offset": 357,
+                "length": 14
+            },
+            {
+                "_": "MessageEntityMention",
+                "offset": 391,
+                "length": 17
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 430,
+                "length": 2,
+                "url": "https://telegra.ph/Lista-dos-Atuais-Membros-da-Federa%C3%A7%C3%A3o-07-09"
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 430,
+                "length": 2
+            },
+            {
+                "_": "MessageEntityUnderline",
+                "offset": 430,
+                "length": 2
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 433,
+                "length": 26,
+                "url": "https://telegra.ph/Lista-dos-Atuais-Membros-da-Federa%C3%A7%C3%A3o-07-09"
+            },
+            {
+                "_": "MessageEntityUnderline",
+                "offset": 433,
+                "length": 26
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 433,
+                "length": 26
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 460,
+                "length": 4,
+                "url": "https://telegra.ph/Lista-dos-Atuais-Membros-da-Federa%C3%A7%C3%A3o-07-09"
+            },
+            {
+                "_": "MessageEntityUnderline",
+                "offset": 460,
+                "length": 4
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 460,
+                "length": 4
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 464,
+                "length": 105
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 569,
+                "length": 23,
+                "url": "https://telegra.ph/The-Communist-Pact-Admission-Legislation-03-15"
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 569,
+                "length": 23
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 592,
+                "length": 20
+            },
+            {
+                "_": "MessageEntityTextUrl",
+                "offset": 612,
+                "length": 24,
+                "url": "https://t.me/+tAteOqn5J602YzMx"
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 612,
+                "length": 24
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 636,
+                "length": 33
+            },
+            {
+                "_": "MessageEntityMention",
+                "offset": 669,
+                "length": 17
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 669,
+                "length": 17
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 686,
+                "length": 2
+            },
+            {
+                "_": "MessageEntityMention",
+                "offset": 776,
+                "length": 17
+            }
+        ],
+        "views": 341,
+        "forwards": 1,
+        "replies": null,
+        "edit_date": "2022-10-17T16:50:07+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 2835,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1216336509
+        },
+        "date": "2022-10-17T12:35:01+00:00",
+        "message": "Multiverso da KFA",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": true,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaPhoto",
+            "photo": {
+                "_": "Photo",
+                "id": 5073734331389815637,
+                "access_hash": -209828170108939049,
+                "file_reference": [
+                    2,
+                    72,
+                    127,
+                    210,
+                    125,
+                    0,
+                    0,
+                    11,
+                    19,
+                    100,
+                    22,
+                    18,
+                    142,
+                    162,
+                    57,
+                    156,
+                    248,
+                    162,
+                    46,
+                    241,
+                    188,
+                    212,
+                    225,
+                    135,
+                    62,
+                    111,
+                    161,
+                    25,
+                    243
+                ],
+                "date": "2022-10-17T11:19:23+00:00",
+                "sizes": [
+                    {
+                        "_": "PhotoStrippedSize",
+                        "type": "i",
+                        "bytes": [
+                            1,
+                            40,
+                            15,
+                            212,
+                            1,
+                            79,
+                            66,
+                            106,
+                            65,
+                            76,
+                            82,
+                            72,
+                            249,
+                            144,
+                            175,
+                            182,
+                            105,
+                            195,
+                            25,
+                            232,
+                            104,
+                            2,
+                            171,
+                            94,
+                            70,
+                            132,
+                            128,
+                            75,
+                            17,
+                            232,
+                            105,
+                            82,
+                            253,
+                            28,
+                            128,
+                            20,
+                            228,
+                            212,
+                            31,
+                            217,
+                            238,
+                            25,
+                            136,
+                            113,
+                            243,
+                            26,
+                            124,
+                            86,
+                            14,
+                            143,
+                            184,
+                            186,
+                            226,
+                            134,
+                            134,
+                            172,
+                            93,
+                            82,
+                            221,
+                            215,
+                            31,
+                            141,
+                            40,
+                            52,
+                            81,
+                            64,
+                            143
+                        ]
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "m",
+                        "w": 121,
+                        "h": 320,
+                        "size": 13047
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "x",
+                        "w": 302,
+                        "h": 800,
+                        "size": 58169
+                    },
+                    {
+                        "_": "PhotoSize",
+                        "type": "y",
+                        "w": 484,
+                        "h": 1280,
+                        "size": 92848
+                    }
+                ],
+                "dc_id": 1,
+                "has_stickers": false,
+                "video_sizes": []
+            },
+            "ttl_seconds": null
+        },
+        "reply_markup": null,
+        "entities": [],
+        "views": 441,
+        "forwards": 1,
+        "replies": null,
+        "edit_date": "2022-10-17T12:37:25+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

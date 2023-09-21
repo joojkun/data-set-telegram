@@ -1,0 +1,29 @@
+[
+    {
+        "_": "MessageService",
+        "id": 925,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1799975160
+        },
+        "date": "2022-10-02T13:24:03+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5682106807
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5682106807
+        },
+        "reply_to": null,
+        "ttl_period": null
+    }
+]

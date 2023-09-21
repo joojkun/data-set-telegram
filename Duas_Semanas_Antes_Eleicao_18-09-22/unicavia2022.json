@@ -1,0 +1,1630 @@
+[
+    {
+        "_": "Message",
+        "id": 228,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1591072957
+        },
+        "date": "2022-09-24T14:14:49+00:00",
+        "message": "Grupos do Telegram:",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1037716751
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-08-30T01:31:59+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerUser",
+                "user_id": 5300583065
+            },
+            "from_name": null,
+            "channel_post": null,
+            "post_author": null,
+            "saved_from_peer": null,
+            "saved_from_msg_id": null,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "V\u00eddeos Engra\u00e7ados",
+                            "url": "https://t.me/VideoEngracados"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Piadas Divertidas",
+                            "url": "https://t.me/PiadasDivertidas"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jokes Funny",
+                            "url": "https://t.me/JokesFunnyTop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rindo Adoidado",
+                            "url": "https://t.me/RindoAdoidado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Sa\u00fade F\u00edsica e Mental",
+                            "url": "https://t.me/SaudeFisicaeMentalidadeElevada"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Desenvolvimento Pessoal",
+                            "url": "https://t.me/DesenvolvimentoPessoaltop"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Comidas Saud\u00e1vel",
+                            "url": "https://t.me/ComidaSaudaveltop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mundo Digital",
+                            "url": "https://t.me/MundoDigitalizado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Criptomoedas",
+                            "url": "https://t.me/CriptomoedasTOP"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cryptocurrencies",
+                            "url": "https://t.me/CryptocurrenciesTop10"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Paulo",
+                            "url": "https://t.me/SaoPauloSPeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio de Janeiro",
+                            "url": "https://t.me/RiodeJaneiroRJeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Distrito Federal",
+                            "url": "https://t.me/DFDistritoFederal"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bras\u00edlia - BR",
+                            "url": "https://t.me/+FYZXGzyxQy81N2Nh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Belo Horizonte - MG",
+                            "url": "https://t.me/+JG_C1mYBya4wOGI5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Curitiba - PR",
+                            "url": "https://t.me/+rV3Hm4EYWZljYzgx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Goi\u00e2nia - GO",
+                            "url": "https://t.me/+T6l-PT03pA4wMGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cuiab\u00e1 - MT",
+                            "url": "https://t.me/+r4nxoL4YTR04ZDk5"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Florian\u00f3polis - SC",
+                            "url": "https://t.me/+r-qSa13vTfwzNzgx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Porto Alegre - RS",
+                            "url": "https://t.me/+03saLlo3xTFkZDVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Campo Grande - MS",
+                            "url": "https://t.me/CampoGrandeMSeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Dourados - MS",
+                            "url": "https://t.me/DouradosMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mato Grosso do Sul",
+                            "url": "https://t.me/MatoGrossoDoSulMS"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Salvador - BA",
+                            "url": "https://t.me/+HV9-Ry4IJp8xN2Ex"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Recife - PE",
+                            "url": "https://t.me/+VwgHCPSDhotmZmQ5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jo\u00e3o Pessoa - PB",
+                            "url": "https://t.me/+gRR3dX-Rfkw3N2Yx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Natal - RN",
+                            "url": "https://t.me/+M4xIUCR9z84zOWNh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Fortaleza - CE",
+                            "url": "https://t.me/+JArMuEMdiSQ4Mjhh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Lu\u00eds - MA",
+                            "url": "https://t.me/+VuHMtix50xYxMjVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Vit\u00f3ria - ES",
+                            "url": "https://t.me/+c0sstV_E2wpjOGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macap\u00e1 - AP",
+                            "url": "https://t.me/+zfdoq91EGhAwZjYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Manaus - AM",
+                            "url": "https://t.me/+CFvNMtEdc3oxNjEx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bel\u00e9m - PA",
+                            "url": "https://t.me/+2QoOdxFo1ZBiYTYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Palmas - TO",
+                            "url": "https://t.me/+h3E3Syu-9cVkYWJh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Aracaj\u00fa - SE",
+                            "url": "https://t.me/+EuVUtJWGcfg2MDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Teresina - PI",
+                            "url": "https://t.me/+OPU77xCSiusyYWMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio Branco - AC",
+                            "url": "https://t.me/+BqoPjrcZ6fIwNDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Amambai \u2013 MS",
+                            "url": "https://t.me/AmambaiMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 1\u00ba turno",
+                            "url": "https://t.me/+wPEKovMA0V1hOWIx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 2\u00ba turno",
+                            "url": "https://t.me/+f1wdIX1DQPsxNTMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Livros Gr\u00e1tis",
+                            "url": "https://t.me/livrospdfsgratis"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cursos Gr\u00e1tis",
+                            "url": "https://t.me/+0osVmZw3r_A5Yjgx"
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [],
+        "views": 7216,
+        "forwards": 89,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 227,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1591072957
+        },
+        "date": "2022-09-24T01:00:51+00:00",
+        "message": "Grupos do Telegram:",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1037716751
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-08-30T01:31:59+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerUser",
+                "user_id": 5300583065
+            },
+            "from_name": null,
+            "channel_post": null,
+            "post_author": null,
+            "saved_from_peer": null,
+            "saved_from_msg_id": null,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "V\u00eddeos Engra\u00e7ados",
+                            "url": "https://t.me/VideoEngracados"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Piadas Divertidas",
+                            "url": "https://t.me/PiadasDivertidas"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jokes Funny",
+                            "url": "https://t.me/JokesFunnyTop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rindo Adoidado",
+                            "url": "https://t.me/RindoAdoidado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Sa\u00fade F\u00edsica e Mental",
+                            "url": "https://t.me/SaudeFisicaeMentalidadeElevada"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Desenvolvimento Pessoal",
+                            "url": "https://t.me/DesenvolvimentoPessoaltop"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Comidas Saud\u00e1vel",
+                            "url": "https://t.me/ComidaSaudaveltop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mundo Digital",
+                            "url": "https://t.me/MundoDigitalizado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Criptomoedas",
+                            "url": "https://t.me/CriptomoedasTOP"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cryptocurrencies",
+                            "url": "https://t.me/CryptocurrenciesTop10"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Paulo",
+                            "url": "https://t.me/SaoPauloSPeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio de Janeiro",
+                            "url": "https://t.me/RiodeJaneiroRJeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Distrito Federal",
+                            "url": "https://t.me/DFDistritoFederal"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bras\u00edlia - BR",
+                            "url": "https://t.me/+FYZXGzyxQy81N2Nh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Belo Horizonte - MG",
+                            "url": "https://t.me/+JG_C1mYBya4wOGI5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Curitiba - PR",
+                            "url": "https://t.me/+rV3Hm4EYWZljYzgx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Goi\u00e2nia - GO",
+                            "url": "https://t.me/+T6l-PT03pA4wMGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cuiab\u00e1 - MT",
+                            "url": "https://t.me/+r4nxoL4YTR04ZDk5"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Florian\u00f3polis - SC",
+                            "url": "https://t.me/+r-qSa13vTfwzNzgx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Porto Alegre - RS",
+                            "url": "https://t.me/+03saLlo3xTFkZDVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Campo Grande - MS",
+                            "url": "https://t.me/CampoGrandeMSeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Dourados - MS",
+                            "url": "https://t.me/DouradosMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mato Grosso do Sul",
+                            "url": "https://t.me/MatoGrossoDoSulMS"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Salvador - BA",
+                            "url": "https://t.me/+HV9-Ry4IJp8xN2Ex"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Recife - PE",
+                            "url": "https://t.me/+VwgHCPSDhotmZmQ5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jo\u00e3o Pessoa - PB",
+                            "url": "https://t.me/+gRR3dX-Rfkw3N2Yx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Natal - RN",
+                            "url": "https://t.me/+M4xIUCR9z84zOWNh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Fortaleza - CE",
+                            "url": "https://t.me/+JArMuEMdiSQ4Mjhh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Lu\u00eds - MA",
+                            "url": "https://t.me/+VuHMtix50xYxMjVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Vit\u00f3ria - ES",
+                            "url": "https://t.me/+c0sstV_E2wpjOGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macap\u00e1 - AP",
+                            "url": "https://t.me/+zfdoq91EGhAwZjYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Manaus - AM",
+                            "url": "https://t.me/+CFvNMtEdc3oxNjEx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bel\u00e9m - PA",
+                            "url": "https://t.me/+2QoOdxFo1ZBiYTYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Palmas - TO",
+                            "url": "https://t.me/+h3E3Syu-9cVkYWJh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Aracaj\u00fa - SE",
+                            "url": "https://t.me/+EuVUtJWGcfg2MDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Teresina - PI",
+                            "url": "https://t.me/+OPU77xCSiusyYWMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio Branco - AC",
+                            "url": "https://t.me/+BqoPjrcZ6fIwNDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Amambai \u2013 MS",
+                            "url": "https://t.me/AmambaiMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 1\u00ba turno",
+                            "url": "https://t.me/+wPEKovMA0V1hOWIx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 2\u00ba turno",
+                            "url": "https://t.me/+f1wdIX1DQPsxNTMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Livros Gr\u00e1tis",
+                            "url": "https://t.me/livrospdfsgratis"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cursos Gr\u00e1tis",
+                            "url": "https://t.me/+0osVmZw3r_A5Yjgx"
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [],
+        "views": 7216,
+        "forwards": 89,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 226,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1591072957
+        },
+        "date": "2022-09-24T00:22:16+00:00",
+        "action": {
+            "_": "MessageActionChatDeleteUser",
+            "user_id": 5721480377
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5721480377
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "MessageService",
+        "id": 224,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1591072957
+        },
+        "date": "2022-09-24T00:05:48+00:00",
+        "action": {
+            "_": "MessageActionChatAddUser",
+            "users": [
+                5721480377
+            ]
+        },
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "legacy": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 5721480377
+        },
+        "reply_to": null,
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 223,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1591072957
+        },
+        "date": "2022-09-21T00:36:51+00:00",
+        "message": "Grupos do Telegram:",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1037716751
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-08-30T01:31:59+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerUser",
+                "user_id": 5300583065
+            },
+            "from_name": null,
+            "channel_post": null,
+            "post_author": null,
+            "saved_from_peer": null,
+            "saved_from_msg_id": null,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "V\u00eddeos Engra\u00e7ados",
+                            "url": "https://t.me/VideoEngracados"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Piadas Divertidas",
+                            "url": "https://t.me/PiadasDivertidas"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jokes Funny",
+                            "url": "https://t.me/JokesFunnyTop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rindo Adoidado",
+                            "url": "https://t.me/RindoAdoidado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Sa\u00fade F\u00edsica e Mental",
+                            "url": "https://t.me/SaudeFisicaeMentalidadeElevada"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Desenvolvimento Pessoal",
+                            "url": "https://t.me/DesenvolvimentoPessoaltop"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Comidas Saud\u00e1vel",
+                            "url": "https://t.me/ComidaSaudaveltop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mundo Digital",
+                            "url": "https://t.me/MundoDigitalizado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Criptomoedas",
+                            "url": "https://t.me/CriptomoedasTOP"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cryptocurrencies",
+                            "url": "https://t.me/CryptocurrenciesTop10"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Paulo",
+                            "url": "https://t.me/SaoPauloSPeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio de Janeiro",
+                            "url": "https://t.me/RiodeJaneiroRJeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Distrito Federal",
+                            "url": "https://t.me/DFDistritoFederal"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bras\u00edlia - BR",
+                            "url": "https://t.me/+FYZXGzyxQy81N2Nh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Belo Horizonte - MG",
+                            "url": "https://t.me/+JG_C1mYBya4wOGI5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Curitiba - PR",
+                            "url": "https://t.me/+rV3Hm4EYWZljYzgx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Goi\u00e2nia - GO",
+                            "url": "https://t.me/+T6l-PT03pA4wMGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cuiab\u00e1 - MT",
+                            "url": "https://t.me/+r4nxoL4YTR04ZDk5"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Florian\u00f3polis - SC",
+                            "url": "https://t.me/+r-qSa13vTfwzNzgx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Porto Alegre - RS",
+                            "url": "https://t.me/+03saLlo3xTFkZDVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Campo Grande - MS",
+                            "url": "https://t.me/CampoGrandeMSeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Dourados - MS",
+                            "url": "https://t.me/DouradosMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mato Grosso do Sul",
+                            "url": "https://t.me/MatoGrossoDoSulMS"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Salvador - BA",
+                            "url": "https://t.me/+HV9-Ry4IJp8xN2Ex"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Recife - PE",
+                            "url": "https://t.me/+VwgHCPSDhotmZmQ5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jo\u00e3o Pessoa - PB",
+                            "url": "https://t.me/+gRR3dX-Rfkw3N2Yx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Natal - RN",
+                            "url": "https://t.me/+M4xIUCR9z84zOWNh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Fortaleza - CE",
+                            "url": "https://t.me/+JArMuEMdiSQ4Mjhh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Lu\u00eds - MA",
+                            "url": "https://t.me/+VuHMtix50xYxMjVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Vit\u00f3ria - ES",
+                            "url": "https://t.me/+c0sstV_E2wpjOGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macap\u00e1 - AP",
+                            "url": "https://t.me/+zfdoq91EGhAwZjYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Manaus - AM",
+                            "url": "https://t.me/+CFvNMtEdc3oxNjEx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bel\u00e9m - PA",
+                            "url": "https://t.me/+2QoOdxFo1ZBiYTYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Palmas - TO",
+                            "url": "https://t.me/+h3E3Syu-9cVkYWJh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Aracaj\u00fa - SE",
+                            "url": "https://t.me/+EuVUtJWGcfg2MDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Teresina - PI",
+                            "url": "https://t.me/+OPU77xCSiusyYWMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio Branco - AC",
+                            "url": "https://t.me/+BqoPjrcZ6fIwNDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Amambai \u2013 MS",
+                            "url": "https://t.me/AmambaiMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 1\u00ba turno",
+                            "url": "https://t.me/+wPEKovMA0V1hOWIx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 2\u00ba turno",
+                            "url": "https://t.me/+f1wdIX1DQPsxNTMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Livros Gr\u00e1tis",
+                            "url": "https://t.me/livrospdfsgratis"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cursos Gr\u00e1tis",
+                            "url": "https://t.me/+0osVmZw3r_A5Yjgx"
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [],
+        "views": 7216,
+        "forwards": 89,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 222,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1591072957
+        },
+        "date": "2022-09-20T11:40:25+00:00",
+        "message": "Grupos do Telegram:",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": false,
+        "from_id": {
+            "_": "PeerUser",
+            "user_id": 1037716751
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-08-30T01:31:59+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerUser",
+                "user_id": 5300583065
+            },
+            "from_name": null,
+            "channel_post": null,
+            "post_author": null,
+            "saved_from_peer": null,
+            "saved_from_msg_id": null,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": {
+            "_": "ReplyInlineMarkup",
+            "rows": [
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "V\u00eddeos Engra\u00e7ados",
+                            "url": "https://t.me/VideoEngracados"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Piadas Divertidas",
+                            "url": "https://t.me/PiadasDivertidas"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jokes Funny",
+                            "url": "https://t.me/JokesFunnyTop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rindo Adoidado",
+                            "url": "https://t.me/RindoAdoidado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Sa\u00fade F\u00edsica e Mental",
+                            "url": "https://t.me/SaudeFisicaeMentalidadeElevada"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Desenvolvimento Pessoal",
+                            "url": "https://t.me/DesenvolvimentoPessoaltop"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Comidas Saud\u00e1vel",
+                            "url": "https://t.me/ComidaSaudaveltop"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mundo Digital",
+                            "url": "https://t.me/MundoDigitalizado"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Criptomoedas",
+                            "url": "https://t.me/CriptomoedasTOP"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cryptocurrencies",
+                            "url": "https://t.me/CryptocurrenciesTop10"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Paulo",
+                            "url": "https://t.me/SaoPauloSPeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio de Janeiro",
+                            "url": "https://t.me/RiodeJaneiroRJeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Distrito Federal",
+                            "url": "https://t.me/DFDistritoFederal"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bras\u00edlia - BR",
+                            "url": "https://t.me/+FYZXGzyxQy81N2Nh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Belo Horizonte - MG",
+                            "url": "https://t.me/+JG_C1mYBya4wOGI5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Curitiba - PR",
+                            "url": "https://t.me/+rV3Hm4EYWZljYzgx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Goi\u00e2nia - GO",
+                            "url": "https://t.me/+T6l-PT03pA4wMGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cuiab\u00e1 - MT",
+                            "url": "https://t.me/+r4nxoL4YTR04ZDk5"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Florian\u00f3polis - SC",
+                            "url": "https://t.me/+r-qSa13vTfwzNzgx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Porto Alegre - RS",
+                            "url": "https://t.me/+03saLlo3xTFkZDVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Campo Grande - MS",
+                            "url": "https://t.me/CampoGrandeMSeRegiao"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Dourados - MS",
+                            "url": "https://t.me/DouradosMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Mato Grosso do Sul",
+                            "url": "https://t.me/MatoGrossoDoSulMS"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Salvador - BA",
+                            "url": "https://t.me/+HV9-Ry4IJp8xN2Ex"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Recife - PE",
+                            "url": "https://t.me/+VwgHCPSDhotmZmQ5"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Jo\u00e3o Pessoa - PB",
+                            "url": "https://t.me/+gRR3dX-Rfkw3N2Yx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Natal - RN",
+                            "url": "https://t.me/+M4xIUCR9z84zOWNh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Fortaleza - CE",
+                            "url": "https://t.me/+JArMuEMdiSQ4Mjhh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "S\u00e3o Lu\u00eds - MA",
+                            "url": "https://t.me/+VuHMtix50xYxMjVh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Vit\u00f3ria - ES",
+                            "url": "https://t.me/+c0sstV_E2wpjOGJh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macei\u00f3 - AL",
+                            "url": "https://t.me/+HJ3mCZGL9SZmNTIx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Macap\u00e1 - AP",
+                            "url": "https://t.me/+zfdoq91EGhAwZjYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Manaus - AM",
+                            "url": "https://t.me/+CFvNMtEdc3oxNjEx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Bel\u00e9m - PA",
+                            "url": "https://t.me/+2QoOdxFo1ZBiYTYx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Palmas - TO",
+                            "url": "https://t.me/+h3E3Syu-9cVkYWJh"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Aracaj\u00fa - SE",
+                            "url": "https://t.me/+EuVUtJWGcfg2MDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Teresina - PI",
+                            "url": "https://t.me/+OPU77xCSiusyYWMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Rio Branco - AC",
+                            "url": "https://t.me/+BqoPjrcZ6fIwNDBh"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Amambai \u2013 MS",
+                            "url": "https://t.me/AmambaiMSeRegiao"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 1\u00ba turno",
+                            "url": "https://t.me/+wPEKovMA0V1hOWIx"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Pesquisa 2\u00ba turno",
+                            "url": "https://t.me/+f1wdIX1DQPsxNTMx"
+                        }
+                    ]
+                },
+                {
+                    "_": "KeyboardButtonRow",
+                    "buttons": [
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Livros Gr\u00e1tis",
+                            "url": "https://t.me/livrospdfsgratis"
+                        },
+                        {
+                            "_": "KeyboardButtonUrl",
+                            "text": "Cursos Gr\u00e1tis",
+                            "url": "https://t.me/+0osVmZw3r_A5Yjgx"
+                        }
+                    ]
+                }
+            ]
+        },
+        "entities": [],
+        "views": 7216,
+        "forwards": 89,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 243,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

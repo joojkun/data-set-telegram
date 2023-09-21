@@ -1,0 +1,65 @@
+[
+    {
+        "_": "Message",
+        "id": 11269,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1705144786
+        },
+        "date": "2022-10-02T21:56:13+00:00",
+        "message": "Ap\u00f3s 28 anos de governo em SP o PSDB conseguiu a proeza de fazer umas das piores campanha da hist\u00f3ria para governador. O sujeito que prejudicou SP provavelmente vai para o segundo turno com Haddad e a chance do Haddad vencer \u00e9 alt\u00edssima. \n\nQue trag\u00e9dia.",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": false,
+        "pinned": true,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1614932961
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-10-02T21:56:09+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1614932961
+            },
+            "from_name": null,
+            "channel_post": 381,
+            "post_author": "Ning",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1614932961
+            },
+            "saved_from_msg_id": 381,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": 29,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 46223,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": null,
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

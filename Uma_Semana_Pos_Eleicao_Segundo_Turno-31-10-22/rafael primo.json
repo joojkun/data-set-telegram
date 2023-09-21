@@ -1,0 +1,121 @@
+[
+    {
+        "_": "Message",
+        "id": 640,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1247584360
+        },
+        "date": "2022-11-05T22:24:53+00:00",
+        "message": "Aten\u00e7\u00e3o, pessoal\n\nOrienta\u00e7\u00e3o sobre essas raras manifesta\u00e7\u00f5es golpistas no pa\u00eds\n\nEspalhar v\u00eddeos, \u00e1udios, grupos e imagens daqueles que n\u00e3o aceitam a derrota nas urnas s\u00f3 vai ajud\u00e1-los, fazendo com que a\u00e7\u00f5es antidemocr\u00e1ticas pontuais pare\u00e7am maiores do que s\u00e3o. \n\nEnt\u00e3o, em vez de encaminhar ou publicar nas redes, denuncie! Grupos da sociedade civil organizada est\u00e3o recebendo informa\u00e7\u00f5es sobre: \n\n1. grupos golpistas no Telegram e Whatsapp: envie links diretamente para\n nucleodeinteligenciaeleitoral@gmail.com\n\n2. policiais coniventes ou posturas golpistas de policiais: envie FOTOS e/ou V\u00cdDEOS para\n contato@forumseguranca.org.br\n\n3. pol\u00edticos com mandato ou rec\u00e9m-eleitos apoiando atos golpistas: envie  FOTOS e/ou V\u00cdDEOS para\n contato@projetoliberdade.org.br\n\nSe n\u00e3o tiver imagens ou v\u00eddeos que comprovem a den\u00fancia, favor n\u00e3o enviar mensagens.\n\nLembremos que a Democracia venceu nas urnas e que as institui\u00e7\u00f5es est\u00e3o preparadas para lidar com tentativas ilegais de contesta\u00e7\u00e3o.\n\nLembre-se de que se voc\u00ea compartilhar estar\u00e1 ajudando a eles e n\u00e3o \u00e9 isso que desejamos.\n\n#LulaPresidente13 \n#ALutaContinua",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityBold",
+                "offset": 0,
+                "length": 78
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 209,
+                "length": 31
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 322,
+                "length": 8
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 429,
+                "length": 19
+            },
+            {
+                "_": "MessageEntityEmail",
+                "offset": 472,
+                "length": 39
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 524,
+                "length": 20
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 548,
+                "length": 31
+            },
+            {
+                "_": "MessageEntityEmail",
+                "offset": 603,
+                "length": 29
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 645,
+                "length": 62
+            },
+            {
+                "_": "MessageEntityEmail",
+                "offset": 732,
+                "length": 31
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 808,
+                "length": 20
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 871,
+                "length": 28
+            },
+            {
+                "_": "MessageEntityBold",
+                "offset": 916,
+                "length": 29
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 1075,
+                "length": 17
+            },
+            {
+                "_": "MessageEntityHashtag",
+                "offset": 1094,
+                "length": 14
+            }
+        ],
+        "views": 94,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 2167,
+            "comments": true,
+            "recent_repliers": [],
+            "channel_id": 1403205771,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-05T22:24:57+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

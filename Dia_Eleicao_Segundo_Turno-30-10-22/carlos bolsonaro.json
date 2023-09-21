@@ -1,0 +1,36 @@
+[
+    {
+        "_": "Message",
+        "id": 3075,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1190106201
+        },
+        "date": "2022-10-30T18:55:49+00:00",
+        "message": "Deixa eu ver se entendi: a PF, PRF e Pol\u00edcias Militares em poucos dias apreenderam milh\u00f5es de reais em opera\u00e7\u00f5es que co\u00edbem crimes eleitorais, al\u00e9m de coibirem outros atos que v\u00e3o contra a lei, e tem gente achando isso errado? \u00c9 isso mesmo?",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": true,
+        "from_scheduled": false,
+        "legacy": true,
+        "edit_hide": true,
+        "pinned": false,
+        "from_id": null,
+        "fwd_from": null,
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [],
+        "views": 227836,
+        "forwards": 171,
+        "replies": null,
+        "edit_date": "2022-10-30T18:56:02+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

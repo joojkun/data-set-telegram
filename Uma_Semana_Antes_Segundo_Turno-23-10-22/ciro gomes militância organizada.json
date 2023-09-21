@@ -1,0 +1,508 @@
+[
+    {
+        "_": "Message",
+        "id": 33317,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1580457301
+        },
+        "date": "2022-10-29T20:30:33+00:00",
+        "message": "@ChannelLikeBot",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": true,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1200098635
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-10-29T20:30:30+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "from_name": null,
+            "channel_post": 1209,
+            "post_author": "Channel Like Bot",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "saved_from_msg_id": 1209,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityMention",
+                "offset": 0,
+                "length": 15
+            }
+        ],
+        "views": 530,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 68037,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-10-29T21:48:46+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 33316,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1580457301
+        },
+        "date": "2022-10-29T20:30:28+00:00",
+        "message": "URGENTE! Carla Zambelli acaba de atirar em eleitor de Lula em S\u00e3o Paulo. https://youtu.be/ppKyT01eqj0",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": true,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1200098635
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-10-29T20:30:25+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "from_name": null,
+            "channel_post": 1208,
+            "post_author": "IFTTT",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "saved_from_msg_id": 1208,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPage",
+                "id": 5127856300919699093,
+                "url": "https://youtu.be/ppKyT01eqj0",
+                "display_url": "youtube.com/watch?v=ppKyT01eqj0",
+                "hash": 0,
+                "type": "video",
+                "site_name": "YouTube",
+                "title": "URGENTE! Carla Zambelli acaba de atirar em eleitor de Lula em S\u00e3o Paulo.",
+                "description": null,
+                "photo": null,
+                "embed_url": "https://www.youtube.com/embed/ppKyT01eqj0",
+                "embed_type": "iframe",
+                "embed_width": 480,
+                "embed_height": 360,
+                "duration": null,
+                "author": null,
+                "document": null,
+                "cached_page": null,
+                "attributes": []
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityUrl",
+                "offset": 73,
+                "length": 28
+            }
+        ],
+        "views": 526,
+        "forwards": 1,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 68037,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-11-12T02:48:43+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 33160,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1580457301
+        },
+        "date": "2022-10-27T22:35:19+00:00",
+        "message": "@ChannelLikeBot",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": true,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1200098635
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-10-27T22:35:16+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "from_name": null,
+            "channel_post": 1207,
+            "post_author": "Channel Like Bot",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "saved_from_msg_id": 1207,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": null,
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityMention",
+                "offset": 0,
+                "length": 15
+            }
+        ],
+        "views": 466,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 68037,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-10-27T22:56:40+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    },
+    {
+        "_": "Message",
+        "id": 33159,
+        "peer_id": {
+            "_": "PeerChannel",
+            "channel_id": 1580457301
+        },
+        "date": "2022-10-27T22:35:15+00:00",
+        "message": "Um recado para os companheiros de luta e aos 24.721 eleitores https://youtu.be/DGxi9EXiNt4",
+        "out": false,
+        "mentioned": false,
+        "media_unread": false,
+        "silent": false,
+        "post": false,
+        "from_scheduled": false,
+        "legacy": false,
+        "edit_hide": true,
+        "pinned": true,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1200098635
+        },
+        "fwd_from": {
+            "_": "MessageFwdHeader",
+            "date": "2022-10-27T22:35:12+00:00",
+            "imported": false,
+            "from_id": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "from_name": null,
+            "channel_post": 1206,
+            "post_author": "IFTTT",
+            "saved_from_peer": {
+                "_": "PeerChannel",
+                "channel_id": 1200098635
+            },
+            "saved_from_msg_id": 1206,
+            "psa_type": null
+        },
+        "via_bot_id": null,
+        "reply_to": null,
+        "media": {
+            "_": "MessageMediaWebPage",
+            "webpage": {
+                "_": "WebPage",
+                "id": 5127856301909999825,
+                "url": "https://youtu.be/DGxi9EXiNt4",
+                "display_url": "youtube.com/watch?v=DGxi9EXiNt4",
+                "hash": 0,
+                "type": "video",
+                "site_name": "YouTube",
+                "title": "Um recado para os companheiros de luta e aos 24.721 eleitores",
+                "description": "Um recado aos companheiras e companheiros que fiz nessas elei\u00e7\u00f5es e aos 24.721 votos de confian\u00e7a \n\nGostaria de dizer a todos voc\u00eas o seguinte: n\u00e3o existe espa\u00e7o vazio na pol\u00edtica. \n\nLutamos com muita vontade, gana e coer\u00eancia para levar atrav\u00e9s do PND de Ciro Gomes, o TRABALHISMO e o PDT ao centro das decis\u00f5es do nosso pa\u00eds. \n\nFizemos porque acreditamos, contra tudo e contra todos, fizemos uma campanha, antes de tudo, de muita garra.\n\nInfelizmente, n\u00e3o conseguimos. E n\u00e3o foi por falta de luta.\n\nE tenho certeza que o que plantamos j\u00e1 floresce a cada dia.\n\nLutamos o bom combate. \n\nMas na pol\u00edtica sempre h\u00e1 um vencedor e um perdedor. \u00c9 assim, gostamos ou n\u00e3o. Algu\u00e9m ir\u00e1 vencer. \n\nE \u00e9 por isso que venho aqui dar este importante recado.\n\nConcorda? De sua opini\u00e3o, ela \u00e9 muito valiosa para nossa luta!\n\nhttps://www.instagram.com/reel/CkO8AeuJj2O/?igshid=MDJmNzVkMjY=",
+                "photo": {
+                    "_": "Photo",
+                    "id": 5971198748962959326,
+                    "access_hash": 2737201602953945987,
+                    "file_reference": [
+                        0,
+                        100,
+                        22,
+                        31,
+                        36,
+                        80,
+                        15,
+                        102,
+                        207,
+                        106,
+                        102,
+                        201,
+                        100,
+                        61,
+                        143,
+                        231,
+                        55,
+                        147,
+                        118,
+                        6,
+                        165
+                    ],
+                    "date": "2022-10-27T22:34:57+00:00",
+                    "sizes": [
+                        {
+                            "_": "PhotoStrippedSize",
+                            "type": "i",
+                            "bytes": [
+                                1,
+                                23,
+                                40,
+                                202,
+                                115,
+                                210,
+                                164,
+                                182,
+                                27,
+                                164,
+                                11,
+                                156,
+                                81,
+                                229,
+                                103,
+                                146,
+                                127,
+                                42,
+                                158,
+                                218,
+                                37,
+                                146,
+                                64,
+                                159,
+                                116,
+                                16,
+                                121,
+                                31,
+                                74,
+                                0,
+                                178,
+                                22,
+                                52,
+                                27,
+                                118,
+                                6,
+                                227,
+                                239,
+                                102,
+                                179,
+                                164,
+                                24,
+                                144,
+                                128,
+                                9,
+                                193,
+                                234,
+                                106,
+                                252,
+                                144,
+                                249,
+                                110,
+                                21,
+                                67,
+                                21,
+                                28,
+                                12,
+                                213,
+                                75,
+                                164,
+                                17,
+                                220,
+                                50,
+                                169,
+                                36,
+                                117,
+                                230,
+                                145,
+                                68,
+                                12,
+                                121,
+                                162,
+                                165,
+                                49,
+                                2,
+                                51,
+                                206,
+                                104,
+                                160,
+                                145,
+                                213,
+                                37,
+                                187,
+                                152,
+                                231,
+                                86,
+                                207,
+                                76,
+                                209,
+                                69,
+                                3,
+                                70,
+                                132,
+                                9,
+                                230,
+                                32,
+                                114,
+                                79,
+                                60,
+                                245,
+                                172,
+                                235,
+                                241,
+                                155,
+                                215,
+                                61,
+                                184,
+                                254,
+                                84,
+                                81,
+                                64,
+                                17,
+                                166,
+                                104,
+                                162,
+                                138,
+                                98,
+                                63
+                            ]
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "m",
+                            "w": 320,
+                            "h": 180,
+                            "size": 9750
+                        },
+                        {
+                            "_": "PhotoSize",
+                            "type": "x",
+                            "w": 800,
+                            "h": 450,
+                            "size": 35665
+                        },
+                        {
+                            "_": "PhotoSizeProgressive",
+                            "type": "y",
+                            "w": 1280,
+                            "h": 720,
+                            "sizes": [
+                                10702,
+                                21178,
+                                28697,
+                                41835,
+                                65277
+                            ]
+                        }
+                    ],
+                    "dc_id": 4,
+                    "has_stickers": false,
+                    "video_sizes": []
+                },
+                "embed_url": "https://www.youtube.com/embed/DGxi9EXiNt4",
+                "embed_type": "iframe",
+                "embed_width": 1280,
+                "embed_height": 720,
+                "duration": null,
+                "author": null,
+                "document": null,
+                "cached_page": null,
+                "attributes": []
+            }
+        },
+        "reply_markup": null,
+        "entities": [
+            {
+                "_": "MessageEntityUrl",
+                "offset": 62,
+                "length": 28
+            }
+        ],
+        "views": 440,
+        "forwards": 0,
+        "replies": {
+            "_": "MessageReplies",
+            "replies": 0,
+            "replies_pts": 68037,
+            "comments": false,
+            "recent_repliers": [],
+            "channel_id": null,
+            "max_id": null,
+            "read_max_id": null
+        },
+        "edit_date": "2022-10-27T23:10:02+00:00",
+        "post_author": null,
+        "grouped_id": null,
+        "restriction_reason": [],
+        "ttl_period": null
+    }
+]

@@ -1,4 +1,4 @@
-# Documentação do Dataset - Mensagens de Grupos Políticos do Telegram (Eleições Presidenciais de 2022)
+# Mensagens de Grupos Políticos do Telegram (Eleições Presidenciais de 2022)
 
 ## Introdução
 

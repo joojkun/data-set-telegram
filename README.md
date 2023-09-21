@@ -35,8 +35,7 @@ O dataset é organizado em um conjunto de dados estruturado, ideal para análise
 4. **Data e Hora**: A data e a hora em que a mensagem foi enviada.
 5. **Tipo de Mensagem**: Indica se a mensagem é um texto, mídia ou link externo.
 6. **Conteúdo da Mensagem**: O texto da mensagem, o caminho do arquivo de mídia ou o URL do link externo.
-7. **Reações e Interações**: Informações sobre reações, como curtidas ou respostas à mensagem.
-8. **Metadata Adicional**: Outros metadados relevantes, como informações do usuário, se disponíveis.
+7. **Metadata Adicional**: Outros metadados relevantes, como informações do usuário, se disponíveis.
 
 ## Utilização Potencial
 
